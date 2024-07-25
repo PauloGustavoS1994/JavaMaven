@@ -11,7 +11,7 @@ public class App
 
         System.out.println( "Hello World! branch2" );
 
-        System.out.println( "Hello World! chech 3.1" );
+        System.out.println( "Hello World! chech 3" );
 
     }
 }
